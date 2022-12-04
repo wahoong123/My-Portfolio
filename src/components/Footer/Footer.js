@@ -15,14 +15,11 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <SocialContainer>
-          <SocialIcons href = "https://github.com">
+          <SocialIcons href = "https://github.com/wahoong123">
             <AiFillGithub size = "3rem" />
           </SocialIcons>
-          <SocialIcons href = "https://linkedin.com">
-            <AiFillLinkedin size = "3rem" />
-          </SocialIcons>
-          <SocialIcons href = "https://instagram.com">
-            <AiFillInstagram size = "3rem" />
+          <SocialIcons href = "linkedin.com/in/wai-hong-choo-6b7728209">
+            <AiFillLinkedin size = "4rem" />
           </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>

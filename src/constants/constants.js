@@ -4,8 +4,8 @@ export const projects = [
     description: "Created my personal Portfolio Website using React & NextJS.",
       image: '/images/1.png',
       tags: ['React', 'NextJS'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://waihongchoo.netlify.app',
+    visit: 'https://github.com/wahoong123/My-Portfolio',
     id: 0,
   },
   {
