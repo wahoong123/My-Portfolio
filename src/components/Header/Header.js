@@ -35,7 +35,7 @@ const Header = () =>  (
       <SocialIcons href = "https://github.com/wahoong123" target = "_blank" rel = "noopener noreferrer">
         <AiFillGithub size = "4rem" />
       </SocialIcons>
-      <SocialIcons href = "linkedin.com/in/wai-hong-choo-6b7728209" target = "_blank" rel = "noopener noreferrer">
+      <SocialIcons href = "https://linkedin.com/in/wai-hong-choo-6b7728209" target = "_blank" rel = "noopener noreferrer">
         <AiFillLinkedin size = "4rem" />
       </SocialIcons>
     </Div3>
